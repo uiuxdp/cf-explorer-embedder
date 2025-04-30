@@ -1,0 +1,12 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore ChromaDB local data (adjust if different)
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables or config files (if any)
+.env
