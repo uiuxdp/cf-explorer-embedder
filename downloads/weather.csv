@@ -1,0 +1,21 @@
+date,location,temperature_c,humidity_percent,weather
+2025-04-01,Dubai,34.2,38,Sunny
+2025-04-02,Dubai,33.8,42,Sunny
+2025-04-03,Dubai,32.1,45,Partly Cloudy
+2025-04-04,Dubai,31.0,48,Cloudy
+2025-04-05,Dubai,30.5,51,Rainy
+2025-04-06,Dubai,29.9,55,Rainy
+2025-04-07,Dubai,31.3,50,Cloudy
+2025-04-08,Dubai,33.0,43,Sunny
+2025-04-09,Dubai,34.7,39,Sunny
+2025-04-10,Dubai,35.2,36,Sunny
+2025-04-11,Sharjah,31.4,47,Cloudy
+2025-04-12,Sharjah,30.1,49,Rainy
+2025-04-13,Sharjah,32.0,45,Partly Cloudy
+2025-04-14,Sharjah,33.5,41,Sunny
+2025-04-15,Sharjah,34.0,39,Sunny
+2025-04-16,Sharjah,34.4,38,Sunny
+2025-04-17,Abu Dhabi,33.0,44,Partly Cloudy
+2025-04-18,Abu Dhabi,32.5,46,Cloudy
+2025-04-19,Abu Dhabi,31.2,50,Rainy
+2025-04-20,Abu Dhabi,30.8,52,Rainy

@@ -1,37 +1,37 @@
-import chromadb
-import pandas as pd
-import requests
 import os
 import json
-from tqdm import tqdm  # For progress bars
 import time
-import multiprocessing
-from fastapi import FastAPI, HTTPException
-from pydantic import BaseModel
+import requests
+import pandas as pd
+import subprocess
+from tqdm import tqdm
 from typing import List, Optional
+from fastapi import FastAPI, HTTPException, Query
+from pydantic import BaseModel
 import uvicorn
-import socket  # Import the socket module
-import subprocess  # Import the subprocess module
+import chromadb
 
-# Configuration
+# --- Config ---
 CHROMA_DB_PATH = "./chroma_db"
-LM_STUDIO_URL = "http://10.90.115.176:1234/v1/embeddings"  # Your LM Studio embeddings endpoint
-# LM_STUDIO_URL = "http://localhost:1234/v1/embeddings"  # Your LM Studio embeddings endpoint
-CSV_FILE_PATH = "Website_Sentiment_Looker - Website_Sentiment_Looker.csv"  # Replace with your CSV file path
-TEXT_COLUMN = "Comments"  # Corrected to use the Comments column from your sample data
-ID_COLUMN = None  # Replace with your ID column if you have one, otherwise None
-COLLECTION_NAME = "documents_collection"
 CHROMA_SERVER_HOST = "localhost"
 CHROMA_SERVER_PORT = 8000
+LM_STUDIO_URL = "http://10.90.115.176:1234/v1/embeddings"
+STRAPI_API_URL = "http://localhost:1337/api/feedback-items?populate=source"
+STRAPI_BASE_URL = "http://localhost:1337"
+ID_COLUMN = None
 MAX_CONNECTION_ATTEMPTS = 10
-CONNECTION_RETRY_DELAY = 1  # seconds
-
-# Create the directory if it doesn't exist
+CONNECTION_RETRY_DELAY = 1
+DOWNLOADS_DIR = "./downloads"
 os.makedirs(CHROMA_DB_PATH, exist_ok=True)
+os.makedirs(DOWNLOADS_DIR, exist_ok=True)
 
-# Define FastAPI app and models
-app = FastAPI(title="Document Search API")
+# --- FastAPI setup ---
+app = FastAPI(title="Multi-Collection Search API")
+client = None
+collections_by_slug = {}
+server_process = None
 
+# --- Models ---
 class SearchRequest(BaseModel):
     query: str
     n_results: int = 5
@@ -44,248 +44,141 @@ class SearchResult(BaseModel):
 class SearchResponse(BaseModel):
     results: List[SearchResult]
 
-# Global variables for client and collection
-client = None
-collection = None
+# --- Start ChromaDB subprocess ---
+def start_chroma_server(path, host, port):
+    command = ["chroma", "run", "--path", path, "--host", host, "--port", str(port)]
+    print(f"Starting ChromaDB: {' '.join(command)}")
+    return subprocess.Popen(command)
 
-# Function to start ChromaDB server using subprocess
-def start_chroma_server_process(path, host="0.0.0.0", port=8000):
-    command = [
-        "chroma",
-        "run",
-        "--path",
-        path,
-        "--host",
-        host,
-        "--port",
-        str(port),
-    ]
-    print(f"Starting ChromaDB server with command: {' '.join(command)}")
-    process = subprocess.Popen(command)
-    return process
-
-def load_csv_data(file_path, text_column=None, id_column=None):
-    """Load data from a CSV file and combine all columns for embedding."""
-    print(f"Loading data from {file_path}...")
+# --- CSV Loader ---
+def load_csv(file_path):
     df = pd.read_csv(file_path)
-
-    # Generate combined text from all columns for each row
-    documents = []
-    for _, row in df.iterrows():
-        # Combine all column values into a single text, with column names as prefixes
-        row_text = " ".join([f"{col}: {str(val).strip()}" for col, val in row.items()])
-        documents.append(row_text)
-
-    # Generate metadata from all columns
-    metadatas = []
-    for _, row in df.iterrows():
-        metadata = {col: str(row[col]) for col in df.columns}
-        metadatas.append(metadata)
-
-    # Generate IDs if id_column is not provided
-    if id_column and id_column in df.columns:
-        ids = df[id_column].astype(str).tolist()
-    else:
-        ids = [f"doc{i}" for i in range(len(documents))]
-
-    print(f"Loaded {len(documents)} documents")
+    documents = [" ".join([f"{col}: {str(val).strip()}" for col, val in row.items()]) for _, row in df.iterrows()]
+    metadatas = [{col: str(row[col]) for col in df.columns} for _, row in df.iterrows()]
+    ids = [f"doc{i}" for i in range(len(documents))]
     return documents, metadatas, ids
 
-
-def get_embeddings_from_lm_studio(texts, api_url=LM_STUDIO_URL, batch_size=5):
-    """Get embeddings from LM Studio API in batches."""
-    headers = {
-        "Content-Type": "application/json"
-    }
-
-    all_embeddings = []
-
-    # Process in batches
+# --- LM Studio embedding ---
+def get_embeddings(texts, api_url=LM_STUDIO_URL, batch_size=5):
+    headers = {"Content-Type": "application/json"}
+    embeddings = []
     for i in tqdm(range(0, len(texts), batch_size), desc="Generating embeddings"):
-        batch = texts[i:i+batch_size]
-
-        # Clean and validate the texts
-        batch = [str(text).strip() for text in batch if text is not None]
-        batch = [text for text in batch if len(text) > 0]
-
-        if not batch:  # Skip empty batches
-            continue
-        data = {
-            "input": batch,
-            # "model": "text-embedding-nomic-embed-text-v1.5"
-            "model": "text-embedding-mxbai-embed-large-v1"
-        }
-
-        max_retries = 3
-        retry_count = 0
-
-        while retry_count < max_retries:
+        batch = [str(t).strip() for t in texts[i:i+batch_size] if t and len(t.strip()) > 0]
+        if not batch: continue
+        data = {"input": batch, "model": "text-embedding-mxbai-embed-large-v1"}
+        retries = 3
+        while retries > 0:
             try:
-                response = requests.post(api_url, headers=headers, data=json.dumps(data))
-                response.raise_for_status()
-                result = response.json()
-
-                # Extract embeddings from the response
-                batch_embeddings = [item["embedding"] for item in result["data"]]
-                all_embeddings.extend(batch_embeddings)
-                break  # Success, exit retry loop
-
+                res = requests.post(api_url, headers=headers, data=json.dumps(data))
+                res.raise_for_status()
+                embeddings.extend([r["embedding"] for r in res.json()["data"]])
+                break
             except Exception as e:
-                retry_count += 1
-                if retry_count == max_retries:
-                    print(f"Error in batch {i//batch_size} after {max_retries} retries: {e}")
-                    # Add None for each failed embedding in this batch
-                    all_embeddings.extend([None] * len(batch))
-                else:
-                    print(f"Retry {retry_count}/{max_retries} for batch {i//batch_size}")
-                    time.sleep(1)  # Wait a second before retrying
+                retries -= 1
+                time.sleep(1)
+                if retries == 0:
+                    print(f"Failed embedding batch: {e}")
+                    embeddings.extend([None] * len(batch))
+    valid = [i for i, e in enumerate(embeddings) if e is not None]
+    return [embeddings[i] for i in valid], valid
 
-    # Remove any None embeddings and corresponding texts
-    valid_indices = [i for i, emb in enumerate(all_embeddings) if emb is not None]
-    valid_embeddings = [all_embeddings[i] for i in valid_indices]
-
-    if len(valid_embeddings) < len(texts):
-        print(f"Warning: Only generated {len(valid_embeddings)} embeddings for {len(texts)} texts")
-
-    return valid_embeddings, valid_indices
-
-
-def setup_chroma_db():
-    """Set up ChromaDB client and attempt to connect with retries."""
-    global client
-    attempts = 0
-    while attempts < MAX_CONNECTION_ATTEMPTS:
+# --- ChromaDB Setup ---
+def setup_chroma():
+    for attempt in range(MAX_CONNECTION_ATTEMPTS):
         try:
-            # Updated for ChromaDB 1.0.5 - use HttpClient to connect to the server
             client = chromadb.HttpClient(host=CHROMA_SERVER_HOST, port=CHROMA_SERVER_PORT)
-            # Try a simple operation to check if the server is reachable
             client.heartbeat()
-            print("Connected to ChromaDB server")
-
-            # Always delete and recreate for consistent embedding size
-            try:
-                client.delete_collection(COLLECTION_NAME)
-                print(f"Deleted old collection: {COLLECTION_NAME}")
-            except Exception:
-                pass
-
-            collection = client.create_collection(
-                name=COLLECTION_NAME,
-                metadata={"hnsw:space": "cosine"}  # Use cosine similarity
-            )
-            print(f"Created new collection: {COLLECTION_NAME}")
-
-            return client, collection
+            print("Connected to ChromaDB.")
+            return client
         except Exception as e:
-            attempts += 1
-            print(f"Attempt {attempts}/{MAX_CONNECTION_ATTEMPTS}: Error connecting to ChromaDB: {str(e)}")
-            if attempts < MAX_CONNECTION_ATTEMPTS:
-                time.sleep(CONNECTION_RETRY_DELAY)
+            print(f"Attempt {attempt+1}: {e}")
+            time.sleep(CONNECTION_RETRY_DELAY)
+    raise RuntimeError("Could not connect to ChromaDB.")
 
-    raise RuntimeError("Failed to connect to ChromaDB server after multiple retries.")
+# --- Index single CSV into Chroma collection ---
+def index_csv_to_collection(client, file_path, slug):
+    documents, metadatas, ids = load_csv(file_path)
+    embeddings, valid_idx = get_embeddings(documents)
+    valid_docs = [documents[i] for i in valid_idx]
+    valid_metas = [metadatas[i] for i in valid_idx]
+    valid_ids = [ids[i] for i in valid_idx]
 
-
-def add_documents_to_chroma(collection, documents, embeddings, metadatas, ids):
-    """Add documents with embeddings to Chroma collection."""
-    # Add in batches of 100
-    batch_size = 100
-
-    for i in tqdm(range(0, len(documents), batch_size), desc="Adding to Chroma"):
-        end_idx = min(i + batch_size, len(documents))
-
-        collection.add(
-            documents=documents[i:end_idx],
-            embeddings=embeddings[i:end_idx],
-            metadatas=metadatas[i:end_idx],
-            ids=ids[i:end_idx]
-        )
-
-    print(f"Added {len(documents)} documents to Chroma")
-
-
-def process_csv_to_chroma(csv_path, text_column, id_column=None):
-    """Process CSV file and store in Chroma database."""
-    # Load data from CSV
-    documents, metadatas, ids = load_csv_data(csv_path, text_column, id_column)
-
-    # Get embeddings from LM Studio
-    print("Generating embeddings using LM Studio...")
-    embeddings, valid_indices = get_embeddings_from_lm_studio(documents)
-
-    # Filter documents, metadatas, and ids based on valid indices
-    valid_documents = [documents[i] for i in valid_indices]
-    valid_metadatas = [metadatas[i] for i in valid_indices]
-    valid_ids = [ids[i] for i in valid_indices]
-
-    # Set up Chroma and connect with retries
-    client, collection = setup_chroma_db()
-
-    # Add documents to Chroma
-    add_documents_to_chroma(collection, valid_documents, embeddings, valid_metadatas, valid_ids)
-
-    return client, collection
-
-# Initialize database at startup
-@app.on_event("startup")
-async def startup_event():
-    global client, collection, server_process
-    # Start ChromaDB server in a separate process using the CLI
-    print("Starting ChromaDB server...")
-    server_process = start_chroma_server_process(CHROMA_DB_PATH, CHROMA_SERVER_HOST, CHROMA_SERVER_PORT)
-
-    # Wait for a bit to allow the server to start (you might need to adjust this)
-    time.sleep(5)
-
-    # Process the CSV file and store in Chroma, with connection retries
     try:
-        client, collection = process_csv_to_chroma(CSV_FILE_PATH, None, ID_COLUMN)
-        print(f"Collection '{COLLECTION_NAME}' initialized with {collection.count()} documents")
-    except RuntimeError as e:
-        print(f"Error during ChromaDB initialization: {e}")
-        # Consider how you want to handle this failure during startup
-        # You might want to terminate the server process and exit the application
-        if server_process and server_process.poll() is None:
-            print("Terminating ChromaDB server process due to initialization failure.")
-            server_process.terminate()
-            server_process.wait()
-        raise
+        client.delete_collection(slug)
+    except:
+        pass
 
-# Define search endpoint
+    collection = client.create_collection(name=slug, metadata={"hnsw:space": "cosine"})
+    for i in tqdm(range(0, len(valid_docs), 100), desc=f"Adding to {slug}"):
+        collection.add(
+            documents=valid_docs[i:i+100],
+            embeddings=embeddings[i:i+100],
+            metadatas=valid_metas[i:i+100],
+            ids=valid_ids[i:i+100]
+        )
+    return collection
+
+# --- Load all CSVs from Strapi API ---
+def index_all_sources():
+    global collections_by_slug
+    res = requests.get(STRAPI_API_URL)
+    items = res.json().get("data", [])
+    for item in items:
+        slug = item["slug"]
+        src = item["source"]
+        url = f"{STRAPI_BASE_URL}{src['url']}"
+        filename = os.path.join(DOWNLOADS_DIR, src["name"])
+        print(f"Downloading {url}...")
+        with open(filename, "wb") as f:
+            f.write(requests.get(url).content)
+        try:
+            collections_by_slug[slug] = index_csv_to_collection(client, filename, slug)
+            print(f"Indexed {slug}")
+        except Exception as e:
+            print(f"Error indexing {slug}: {e}")
+
+# --- Startup: launch Chroma, connect, and index all ---
+@app.on_event("startup")
+async def on_startup():
+    global client, server_process
+    print("Launching ChromaDB server...")
+    server_process = start_chroma_server(CHROMA_DB_PATH, CHROMA_SERVER_HOST, CHROMA_SERVER_PORT)
+    time.sleep(5)
+    client = setup_chroma()
+    index_all_sources()
+
+@app.on_event("shutdown")
+async def on_shutdown():
+    if server_process and server_process.poll() is None:
+        print("Shutting down ChromaDB...")
+        server_process.terminate()
+        server_process.wait()
+
+# --- Search Endpoint ---
 @app.post("/search", response_model=SearchResponse)
-async def search_documents(request: SearchRequest):
-    global collection
+async def search(request: SearchRequest, slug: str = Query(..., description="Collection slug")):
+    collection = collections_by_slug.get(slug)
+    if not collection:
+        raise HTTPException(status_code=404, detail=f"Collection '{slug}' not found")
 
-    if collection is None:
-        raise HTTPException(status_code=500, detail="Database not initialized")
+    query_embeddings, valid_idx = get_embeddings([request.query])
+    if not valid_idx:
+        raise HTTPException(status_code=400, detail="Embedding failed")
 
-    # Get embeddings for the query
-    query_embeddings, valid_indices = get_embeddings_from_lm_studio([request.query])
-
-    if not valid_indices:
-        raise HTTPException(status_code=400, detail="Failed to generate query embeddings")
-
-    # Search the collection
     results = collection.query(
         query_embeddings=query_embeddings,
         n_results=request.n_results,
         include=["documents", "metadatas", "distances"]
     )
 
-    # Process results
-    search_results = []
-    for i in range(len(results["documents"][0])):
-        # Convert distance to similarity (1 - distance for cosine)
-        similarity = 1 - float(results["distances"][0][i])
-
-        search_results.append(SearchResult(
+    return SearchResponse(results=[
+        SearchResult(
             content=results["documents"][0][i],
-            similarity=similarity,
+            similarity=1 - results["distances"][0][i],
             metadata=results["metadatas"][0][i]
-        ))
-
-    return SearchResponse(results=search_results)
+        )
+        for i in range(len(results["documents"][0]))
+    ])
 
 if __name__ == "__main__":
-    # Run the FastAPI server
-    print("\nStarting search API server...")
     uvicorn.run(app, host="0.0.0.0", port=1111)
