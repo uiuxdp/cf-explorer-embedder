@@ -1,0 +1,3509 @@
+
+===
+Logo: 901
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/13XCBIxQUQrZkIcHV8wDsRUphZTOpd2oP/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1_--In-fyrLNrMAgH5x3eQ_ULikkatChf/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1fedXVtaXCju7nJSWDBnvoz8qzG1rUQ4g/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1XsqduY9IdTQLSqGwdSu44loLcKj4Q_br/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1xqrcyMe_a26cg4O3uv9gj1vN-yjTA84Y/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1ajDEvdG5gt2li7nqTejP1QkJtU4O7EOD/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1G4mtGOfEzcSdpFFieUfFnz1QWHAL3AeW/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/11ScaMcj3-mUwh81vYRwoQCkcMlllBuIp/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1VsatcgNYq48pl6Pwim44KKvsHT7iLVi5/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1P3e5tz2td_1lytaaO6QT6U9_TzKrs2AG/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1QuqUy-RZq3ZYnFS1YiwRsTNhRolCycxA/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1KnkfP2r3jBOFgsTkdCN7qAadfJYfCulE/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1WByztKhspiIw1buZ6KGI1u8SK0sxMn5w/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/136901wl2cHeZFYyKgaqVG2oOwna7v7VP/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/17kidl1nLGbu8Xc6YBwq13NmrzIgAGnyZ/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1e4KBqdFn81ZXZBbTMkQMTUV4spnDmJ5o/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/123WEGZYdcaCGOatuf4_MSlv2cEkx3CQ8/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/15VPXXHCVHoOtIuZDmMvgGw24_3wlEMYc/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1XCTWE331nlsj4mmiegOqe433ZRZclkFQ/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1DCioDs_6P_vciB9iC5hduWmTjLS2XTD_/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1V3H1uBKN5f3wEdZQmpMSbO6sriWlce7e/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1Mx_xEOuiOUs7NH-cZugaNA0Pl06O2HYH/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1U_7i5qAfz5hADgXKCVibnAwylKLqbAVB/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1dnxdlSl5011P2Ff-1jUJCwUoMxpOG7VN/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1jzau5KEvDVXqobdVc6Qa3hAvrVLOGXQW/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1VO3bHi0kZTTZycZ8PxBtxgIUELesI4CO/view?usp=drive_link
+===
+
+
+===
+Logo: 901
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1RZp_a3dkuHrfu__lIS5-d_t7wHwm5_Fz/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/19mmGRQxJ_BYL6gJlvrGuEwMRIorE01Wv/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1PDk-lhIu7vqVurJwDd_plcf-TEfoqQl9/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1NCnIhcCI50SeYuD-S2SkxTLkXfdHhThh/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1Y84J04Mg1HT9Mkoqezxy1Pk5LrSh347D/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1pr7c5dMq8Ped2OsWzPfQ1SU_49CCF7hj/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1s310j4BUKm_5SHKmgfz34ZlgSt4LAAfK/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1mdjDgLlFb_oFCzQ0r9WNCUKXHglha-CR/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1B_Z0tKcOEMSAvl5xRL0CcUZxBT89grLT/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1sLifDujDh3XZmKfRpyj1Ly5fi4j1sGof/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1heEQIbmJ8BiWcma-llPQQQvwjrto0uwI/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1r16Vikk6YDkh-Bo2H_0Fz15w8zi0_695/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1wGgom5Y4lfBX5k9Gbj32LC2lfL7aUC5f/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1qUYyJFLrkOEonlOWqQF-GTCZ6oNeRgm1/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1LLAD9HyJUvCATRqazWmskyco6xzzmQAJ/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1Z83GjzBrhfr9mSrNwHZdvc8UDJNIvfd-/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1Fq_Kbi33Fkv52oGj6G9YlK0yxd-YoZrt/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1HsM9yngdQxQamFB7qrWTS4SfJkzVJEfO/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/17aNtm54TG8dmMJzkTgpm1WwKefRS67fp/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1hnQWQpZPa5HtmmykjZW486uY9QfphIwH/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1Kla5Dnk8hWN51HmlySnvBC_JjWKMaQP3/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/16-WhXUo4HxomTaMFggjBnGih2WKmLB6Y/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1Gwpi0uUT5lUkMuL8WNDirOXEnQ_ePj0n/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1HlC47BWoL9Vk4sHUclmFWtF9SzZFPbLk/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1swlJl7_C5ebhDA1HX6dqg3y5IbKoFaW4/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1LYGHsEOIrOyOYgEHS7AyNuP82HoThBKP/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1_cG3xMOkISIAaymuGIYKcRbhe3zIp60j/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1uKL-zED9FZlNURR5rforkn-c55KGLQ2R/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1ZyZY1pQ4S5umMuMWKBdpTLjq8mhemtdc/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1LlEK6500ApgChcznFvMxhYqX3VVB6cAR/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1uWqg78hI-SV2mW1vy3KKaATT15V4Dqfv/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1s9F71TmngnGLkHECZ7a4bZ0wkn9ne0b4/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1bSVt4baMsiGKlg9t3azJorRBMGsz_KST/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1M7g5W3PdYJTqxex48ugEGqyc3wy9zXiz/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1NaNSTKRwjEoh3Y80laEzk-Ej8unVvLTu/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1Ef3UShEdfDcKzvTH1ibbbaDemqzftjT0/view?usp=drive_link
+===
+
+
+===
+Logo: Artificial Intelligence
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1Z8KMgnAl2fuT7eAQjeAi-wcU9B5JNhAB/view?usp=drive_link
+===
+
+
+===
+Logo: Crime Scene Department
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1U77t8uDAPOJ6X3__ESMalE12JEJwLvL-/view?usp=drive_link
+===
+
+
+===
+Logo: Crime Scene Department
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1oLFe6kH0VlFShzuy_lYffumzR22EMf3V/view?usp=drive_link
+===
+
+
+===
+Logo: Crime Scene Department
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1tsQY1Br_kIf_DF_vCBr4yOaTsDy0nGWd/view?usp=drive_link
+===
+
+
+===
+Logo: Crime Scene Department
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1ISugPjXHHk1M65W-1Ur29gZPF1KFz5KZ/view?usp=drive_link
+===
+
+
+===
+Logo: Crime Scene Department
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1F2-YFP1eOa5ddCWL6OhTDuzi_M50VtPW/view?usp=drive_link
+===
+
+
+===
+Logo: Crime Scene Department
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1veUv3cPiLC8ehhhAxmlTc8BYCIiiR0TV/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1Dn9UQKrdQIv3zOqAY5Pa0RTj6E5U3nht/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1akgHLxI9SBuL-j9_btLknM8MLb6IzsNR/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1rrkdNJ2xbl1XpxdQyMdsSquNGzIQImOO/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1lHNbghujxIZ8DsC745qE6gKm8fW9Cwsy/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1iYdGRY3Z_d_4RDIEA5EHj9OI5K9rNCyF/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1ErgAvbikepFp9EsTd7qqUUu6z81X2kHj/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/19uckd_z5Wru_myBvYLb06Ner8K0gq2AL/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1oDigbrwG8wlbfxoige8DpiMTCKVXnvCS/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1oTEfcp9AXc1gFaspezpc6Nl8y4o24uYD/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1lot2g_BN5YkrujgxlWV7XhO71GGi1n6x/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1n1ZxUfZqeeOsPxPvIaldF9i1rea674hl/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/13nukoplcxMdxdZIV_QLPNa5z2131AoCj/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1JFmFoie82Q17INZM0i8J5bMtkQ-vJ7fe/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1AI6rj62_bVGA9rO282T5srAqcs3-GzDI/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1uqY0uzMlVu11r5lgOvY6r7QXiS155bwj/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1dMchNL-I2VccxNDVykoG_PRAssKUJbR-/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1NtMbXC2Cm0hiJD4tLQ_yU2s_OXOG6nfW/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1CDV24nOavabTsjuzjxJ2xf7bDUxE5815/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/133MGKDlLi01E4eHsSwBBwM2ubM0E-2re/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1TEaLjsRxNKO-XQ3JYmAb9OUGMS2aFR4s/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/10Mbj5tYwQ2u8O5R0V7kMxmuY_RQ33V7v/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1hGOv1-cXrtfT6WOI1Kw1iR8lE4XE5WLR/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1V8ypW4LFLRDrTjHMy9vSmrQtyCHOBqlC/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1a8jsbB8judH5MCkFM55_GElkKOYHO1rr/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1qVQ50zf9O2JP3HgWyKX_dHx3C1Z6XxY5/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1CorlL6KMx6t2ffmpIn8e3CgfjS_VHxHY/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1gEZ_qTot2QQ4Hbmj0ek4iESGl3bxw97F/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/16ltvEdXPWEWpzV2I3_FtThIGpwdx9BmG/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1RHY8S1cBuVqvWm1HfaKyPl1OcujBHfN_/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1qogqQjsYi0p3csLAkdK0OItT5NSYIAI8/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1x5HxFPe3q5uUzYSXrH2eXjxwauET4zc9/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/19vCZc3DECa3SgKxPq8AzM2SP0cDxU05y/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1dnFUvcRCbe5H8dRabc0UEZh8pE0wnw_N/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1bhlvzhHkNib6mxgI1Sp0l04d7ELal77G/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1dCIBFNFD7fim2DirJitZPcS4jdHL6Aby/view?usp=drive_link
+===
+
+
+===
+Logo: DPDS
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1byG921QX-J_GHUrl9tliuyZYplkyHhW6/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1gE-al4egoY8UUtStoAP24lzr0c9cdc8B/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1bZXZZdnzS-PpqUDqyviM0TKD6pB7MY5n/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1o2oMtVd5Tm6oSrkMQlwhzTgPDQz4ybx2/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1dGLr527Do4iC5xONcnlA6Wkrq4V8mAt3/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1Py2qsXQYLSgqDxSvk31F6xdlu_oEhQwZ/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1Nq9fFtKMWzMIHAWwCcpXVI_tS5WcdLxL/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1-UV3cmNVvxVs5us3SzGEjB9HO-tBSniW/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1jzXdGznBCXZkfqUutzegeEixNcS421j7/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1ROCBpcLsqzExEI9kueRx1GD5IbXxNDd9/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1Xo0M6Ej6IP88JoS9XFrc2FSYLqLusC0p/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1PJLLvdQ_Jq_y8Q4zl9BTC-tMJUzPGG-O/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1oaswg7q1VKO1bzm5qMRbtkK4l9yoUEgL/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1jKPIjcG_F6R1czuMxiYBDFpECQ9r8rwS/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1OAaFlSmIsgjT-F7lGbRNZ9Bzs5YJIoYz/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1-cER-8YVdeX7YsA3kXDc7Zysm5s8rBOs/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1g2O7AuKX8yKXuXACXFdm8RbXRicM0W5W/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/16X1gLgZpFDaWTActDQb5B7LsmiF22ntM/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/12pE5UmWP6o7v_tIQARD0NeHcFTEcYLD0/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1roRlaAvOgn6Enbz-6Aiw5uZBQCsrM1YB/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1JMn5vtIn7UPrg4DepZSI3pOBFZXZWAca/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1LJzAiqx4jgElcWca8EWnurznXtx_aW7L/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1VSb--6i8Tw8YJNJQxOgihM6fSBultipU/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/17R6gPhCB3WhatbmBuAbe6dVoKyzaSz7i/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/17Vra8ARVtyz4nzeSGkSc28wHqBj5Gxpn/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1LNnvvAzTZPKXBqKSrOyB28etTrU1n-7Q/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1itceIjxAiVOZ1cblf-2UWSykFGZ98QRt/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1YKsOjiqSq9GwruwCulC07rIFhwjRMt4G/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1aV4yG7gzwP-J7D4Ywj08OWKQOixOdnbw/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1YoWFJUz2sYNJYkU8vJ2mGyp5EjEtIf2D/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1DH3CMcO2ENmSeUK8CD6Y2eObzxZwY98u/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1emVY7ikazvrmj98IA-hmq0_9sCx7DtTT/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1LBnHZJxXBEA9ksZ4Ym2zKY8uf7qcggNM/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1oWAmPPnQv-PrrmXRpD76TP1GHOlGd0p9/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1NYpB5NrAevu-A-zng3Gru4rcnRm2uSsd/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1hen2HrJM1xp2RuKOKn8NG7PyY5yEefl-/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Mounted Police
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1erRQPIxFujYjyJYL8FYanPMiTxFlmg8n/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1CrOvJKj07OSqFNs4hQhrbdQHJnOkmb-a/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1Vxc3ZekdieN_ISrvxrsgdAOAxADBpV7H/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/13aDZehi8sUZlpVM6mW_Sc_gpve1Vkknd/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1dcL4VOJf4wBSQeBYYWmUwpaOFq4P9LiN/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1C5yWanVT65w3ABfiJs_XA-2sltk8xvxv/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1QDv8yS83FkXr_bgqAXoV9lKnv2yMlH9n/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1YBTYN8XCR8lOWVok82KW4zhy8dgcXZ8w/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1dJG6x_f9MgTgXpIJfzUV269dneFAYEmx/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1wqJW0eNJldVnFjnMYY0DnaRcXD6reWFo/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1AaebFqTMgzTl4pptjW-RBoJaKLAhwLlM/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1AK9at-YfNPZEcozldSTdcIwOBXW93Dpe/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1poEkiRRIN400v7emmKbszcjJB_5VuToY/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1_UG8Qk7W0f0gw8WrIIYIxUUy3DmLKuPQ/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1l6MVEbNSTGe63G-yqTSyT3o3aHITv3rJ/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1liCTXrKzYzYAVb42WCBAzzTiCalXEe80/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1hTz4pffaOHLzVfkSYKfEgrD-Jd2uXUoS/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1MNxpeFYLfL32xD3t3MeFDHpMUKiZLoiu/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1owRY0YPPmW4rtyydxlRUY-vx2tda0Tbk/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1HPNypYCTyORjnd7R3R-Fwn2MMoaajBqp/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1AiinbmacQxGT2EXUQOOL6nC5Iy23BIe0/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1qHBpJcCLd0RdJt9jCAGE10cLczUR58Vl/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1frLWdLFp0f-6KAVyVgLgq2QL9c92BxdA/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1ZefFn9lvFdmSFiQt_bDg4LiPpqOzEa9z/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1nq1naS2z06hneA9SjmRM7eLkg67YJuCe/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1yhDffSLVdJVvNDrolPHfgFlzpI8qcvRQ/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1zHDvu_JSQpZi6uhjb7B2awo_maJ5Ep1z/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1eT9YGoWt25E6Owb3pzJCFMZDplnQ4BRB/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1-iBpfVtAMZpkB-606JMsNLVlWY6h53_m/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1dsFuOggH3ceYU3EPSxCJej1FXyVY0PUd/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1uTEtNmK-lnBnWOHdcGlStvWiEr-AGU_0/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1vQpuXuMgrQnJ0BkXG1TflqQJoGd8UH0Y/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/10__JiZ5zT99lvBhOu7IgTt5qCnUlJqAc/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1Oet-S5ga2BcN5V1qG9o5YQ--Pb-XTVij/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1yl8AIXDt75movW16SOs5CKHObNbDGCZy/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/10sZSjP_hWlWadsIPdgOqW2zLji_BU4Xh/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1PxtrMxGTWG4r_n5IB4sHgShocdWvfnBw/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1gKfQE0KOkr_1deVtMAeIwd9pKm6oo0_e/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/12GQ2gBUuYPlieJgWofSiQJQ9P-PlHeX7/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1n4-q-v1kdAwopz4y_lhrz5D4rDYEjW9H/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/19oGGlbw4amq0OOVJxczFipTwMzoF82fZ/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1DrsepxdRe4PTcyxfI9MIzMuLDQZJ2AHx/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1I5XBmKsSHqkYAELq78Mhhbq0hD6wJWVx/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1G-6SE_OMzCahHvPpFlMnlsj5OdnzCe6k/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1KXL4GHlX0BrxEn2eXIrMjGvOIn2Z-wUr/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1dN8Y2ckqJY3guEKT4H9tJaMFrkY85qn_/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1pAH_P0vulElIxRRX7gsUHzKGO7IiXJzv/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/141W9kNC6FPPqU1j7ZYnoPQQpw0usc5Xm/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1WouCwHq4X2C6jPfjKLYaVfngMEW73-jH/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1ojz8dTwDIKrg6xOjzDd9QFI2XZRU6SzQ/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/15NTcB13pNYXu0rAnvAtDx-PlgtfUHt85/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/18Q6RFcMEuPnF2Q1A7rGf41ds7Wuy7LKV/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1JHZwTmt2agj1pUz-q62jB-B4JW06sTgr/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1ScyIDbo2uzznWaRlTN5S6T-s-NTVQHFR/view?usp=drive_link
+===
+
+
+===
+Logo: Dubai Police Academy
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1fqKkw8PeqAWgiDM_8VthmBxgVpEvqCRJ/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1P8pQO_LvD6yCycGGfg1Xl2O1FuGUjV7b/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/141rCu1awV4rRrFDoaz296EZ5d1TVleFr/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1tz0QKa478YzePVNVHeMtfJyYImbgbIDk/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1jdKwK9XjwMRRHKktSU8zROsPoM6lk1Zm/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1G06panGIu2zlWnzIaQmsudfC1CvtwAaH/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1Bj2wzRz3rHqjybiUhYDcTbliG0qs8Rxk/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1KkovywOt_hTl2_LZX32kcAw4lq8QgIL9/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1jzHkk-Md2LcTZHS6wQP5FTHkvQw_C_OW/view?usp=drive_link
+===
+
+
+===
+Logo: eCrime
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1-NLJyajsBUH9XEzfLe7kKq9iqSnyP5kv/view?usp=drive_link
+===
+
+
+===
+Logo: Eifad
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1ztULP2l-g_289KE61ApaCQnjfY0XzMAX/view?usp=drive_link
+===
+
+
+===
+Logo: Eifad
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1aj3qN6gZ5zz7HPjwOkcdegofgvYgj8-O/view?usp=drive_link
+===
+
+
+===
+Logo: Eifad
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1v5DIndrVay0hNGeoPUAR5VhDW2zxG5IA/view?usp=drive_link
+===
+
+
+===
+Logo: Eifad
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1ip9u7JObh5pkXJmejvV-UFfGCC7J_GEz/view?usp=drive_link
+===
+
+
+===
+Logo: Eifad
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1KRWtW3D38X1szoMXL8FznR7_nbQanbHi/view?usp=drive_link
+===
+
+
+===
+Logo: Eifad
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1NwrEgy5rVLZCzkG_h7_FaNtIgdn3SARq/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1xc_x73LBj6NEkWjfnXcArZ88jaP3ccAY/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/15dsYsinlWIUVGD62sb2nNQ7pCBMGWsSK/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1Fx0N-16TAjUl1MOt8VV9oM93tMwUVcM4/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1LYXssUpMNX78V8G-wZcdig7dU9xzO0Zg/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1EhxgHZdpKnUVf02CwtpNv2V0GUz0tbyw/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1edDi_hW9OJ1uCfab2d4fRxiL9-erHF4D/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1KDptFW1h0A-_oSZtTqhkUbnwhEBE5CeI/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1H7o2sTtHdOx340gFVF9G_lOkpd4q6uMV/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1_pG4KaJ9gBNr8i4ooEuTUaQvc-wlpmDs/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1aJa48uiImNXJ87nIjLpJHlMSGVFRVlI2/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1iL6PN03iDtZ1HQwMcx8dkVwZMf2R9qED/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1ZsCRdCqVsH0lxQrvJKsI-WAlc9X5EWMo/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/129KfMZBpsn-DZD35EQFntRU_7O9vydLb/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1gfmxK7yGaNwvDw0pkgOXjXDrASILYnOh/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/18U-duzJY8BKoGuZ6f0P-4sN8sSrJJ31f/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/15GmJig1bHu3mXZ_04EMngfqlGV-QnUuK/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/17Z2_plocaPP6n4lJRzTW5ic30W--tFXD/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1srdapJeZFWx30Erb23RcPqGtebYnNfkP/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1kI0ok0d39C5SL_IA3Uzlttp9KULSKpNO/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/15k4gg-uG4z7VbZha8LRvQQCgB-JO78Aa/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1H9JpELc3IE9mRDbeOqbWN7FaD1XNPmjj/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1ouwG0KzIO0jWof26iTA73kBku7S75v34/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1tvaXTTTqbYuuQR7fMUo8kjj1iOe6wUsb/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1H9JpELc3IE9mRDbeOqbWN7FaD1XNPmjj/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1oGfxRfAy5BCTK7CRNSzyKy6YE89ml73A/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1WHAJBOWI-omeqw1T_UbvBYI3GAsBfcJ6/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/11KUTEEWMKfnR49BuucY5leDTbOL0begb/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1cmr3-aPrOIUMP9wpkJE_0Wckuepg5FXp/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1EoesrIjAj-tNF1l3KqYsGBNpj1a6eHeQ/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/106U2-MOn0XVwzLXvVJPoNbI3_rMQ3waA/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1xP6eZ3ZHH_0kccX5LPz1bbyEOStuA48w/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/13Cpm6SUSVYe8WvMFN_ZEOsXJYHnII_Ax/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1LZmCs1Q8jM6bhGuX_rnzBPhaw9V6eZTi/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1xmA1fK4nQSKdJ8R1Jn30ZuU1cy_OYNCZ/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1JmLbtMgQHvjhyjfBFuDPg132o-yp-axx/view?usp=drive_link
+===
+
+
+===
+Logo: Emarati71
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1qB_XjVsixNvb29ulsH0qbPT69aA7ETQG/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1QPcv3HyqDVEmugHX1D1XrZB0GYzrQJWv/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1xZ8Pt4hZWg9a-bxWoz80rq1ki_Y4YPX6/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1dcSpOv1ojMNh_arWhtDFHfvivqddmyAB/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1812z53YOzJ5krF8utW7pN4Fd-JK9CIDK/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1cIQPtfr41WlRKvOL_rrn2cIcPbmEv7JN/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1RfjB6B-HdJtFbCSivCyqabmfdT933Wji/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1yGgWupIUMR6mzfh0rhVQonzwp0fiaMUJ/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1xlXWZFjBTzdItFbKLHc8lD-KDePFh4qq/view?usp=drive_link
+===
+
+
+===
+Logo: Esaad
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/14FBj4DVEmiGVCemyGXZB8V_-F3ir3PxW/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1CSAlXOZ41QZYJU6fmHD2XE6CcK1-muB3/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1ovqXIS5LMlnkY06ANhq3LcBj462vleHq/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1POlurfGyiTuTrqjdJ0QLKD5hw7RmEj4N/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1xhrxlXPy6nS5xUSXt72ntknfH9QhEotU/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1MFQpU0K2leFduDQwRxXTyQnJcWf7ejqb/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1ry5bFAFeYprNPWf6FGs1DstDVYRTFj04/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1Zxu_RDzsLAUkU67ybgEcoPoJZqKj47cg/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1-SdvM0h7RHnUgxh8Px-SR_opekwIIZmg/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/17TPOug21fQN2rLno3gqQJ3CWJrKIoSNc/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1In6Q8jAzK3_f7IoLsej9751tMwrKV_GA/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1eHTehfOmAVIgsWgr___-Ia4Thb1Ut67f/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1_Q6m0Yitbs_HzBnHI1SNU6zyqthirxQ3/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1W4MN39JslphOB-33UK84p53-UodvO_t7/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1zghawcGsHje3CCHOCeMxH8kxzITo2cL1/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1_3R4PjZAhe2TV5nJ3SGj8McXxQMkp7pX/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1RcQEFCpo2cFGRNSYoMgkhXlGVEKWCTfu/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1k5Cg40oumtgzAxWtsqeqhISiMzdydRdt/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1A1_E1z3rVqr32MjO_SYxRlT6XLFEFkNi/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/11MkYnY0qz1HwWdb7TZNiRttHlmE74yUQ/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1ib5oysaOAwWqdF6zXNK9bNFRB4lwkyR5/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1A4XcAdR4Kk11w-Bi0-iHeptjqj0HeJ-p/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1qW23ypEPra0OXSaqdzY-j6PN6hExrhnb/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1BTelrMgkIyKobXprLqhp0c2qiMusagRF/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/14oCBdzJUOG6sPNY5Xoksz7RjGoo_3E2t/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1FC4AkDfUUQ2c649pzGvMbEwaAz0selA7/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1KsZC2EKnxHryHxQp8V95NmJrZotBn7Mg/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1q_ARLfuCOnBSewIqN-Yt5x6QeJRcT3iz/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1YcK1Ehn8DYjsNY6tDK3IjBszwvmDjMC0/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1DdsPbRUASYrtf4HoPLj9-YHw3XeSvX2O/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1IWESRAi795Tf4Q1brFPGk9uN7JV4du5o/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1MCBZfBr7xdvj8fZ2hCQR458-cOgkBupb/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1e822mR8HwXhzd344-ygF5VE1nBZokIXp/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1Pd5AMeiSI5Y42AHTui-6BpiLOOetuHpe/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1cF8w9dI1MtnkLlR5Cnpc9p7l1IOnl1Cb/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1AKBfwZvS42bLiHva4DDo_VsEzpGlN10P/view?usp=drive_link
+===
+
+
+===
+Logo: Future Foresight and Decision Making Support Center
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1bY2Tj2tyPQQtO-jTjEiQ8wn8FeZVpVnV/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1KwGwTca4DTVE2k3Sma5z2I3S62fWD-ZF/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1AeRu93A-zjI3Dz-utaecgFyaaKuQwdhN/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1GeC32fNLVXWG-jurbMeKPekOykoxNcaY/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1FfZ5MAhwp_mIPR-d4ZwOVuJmZzL7j04h/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/13mfy98tDPToKcSIQyK5DPmGSw1YYcjTi/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1SMsU3K9FMvqlUhYlCZf_H6o3aK6xQRnT/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1yZGYuDziKXy72rrNH7l9YHCP4CCOZJWk/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1pjgUpxF2XsUR-w73fLLTw1D1GtBRS6kf/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1hCWb9LqejfhMHtNUXiP7yjej-MTHXuE2/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1pkESK7VILc6eVH7y6vW_RDo5Yxh3x-w1/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1uBhmK8Q7l0J6wwY7v6SQMAjr7uM7P3ml/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1NRb0iPVYCZinbr97_PyCynPRQg-4jj5y/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1L7faIiHQJm3r_LTqVJ2-z5TqItntky6w/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1DPys_jnBH6onfYG7Do4CZzHA1_2bBXAd/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1r1w9E2v9i0BxlbXe0-O_hhSf-p2fNVP9/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1rGdDmlqohZL5g0mv72JasuGTUQucR5Gc/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/18122rCafIfnW3ZdGf5VRIoQVTlxa6NlY/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1ono_ia7LuaoaEGrHaeRR68MpE6WZso2u/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/12YK8qKRvIe7PTaU9a8sQE_1m7IuI5nhG/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1EKMciO55ZMqBdEQKpxJuZ9TiHtR7dBdC/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1k6PVD3pMqz7s_1siCPYTSf0JCMX1tGGQ/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1c-QSCenAvov2IxXz8hCzTQCWhMKrI9RR/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1h_IEaDLwUafY0YzIybba2NRjA0WPWvqh/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1wswRQ8xrZ7mHxOlM0OsVy2C9EZ230kE8/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1n-hVeOjgMChBoWAkBE4QRsJuHB5Bp75X/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1fXjjMTAwF1KY7JNmw4tWuzadb-JxOQGB/view?usp=drive_link
+===
+
+
+===
+Logo: Hemaya
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/10C29m6KDXsq3ySQtULS7tiYd3R-tMugT/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1Lo5GDXjCF1_nmHUVXcXo_2_s47DUpeV5/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1hGIr6BvNKG7BM6NzDHZftDOn55wpIbX4/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/10_wRzeMWom5o-KxkR1vHRnmaaAqluFtN/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1pFkcYYeBVi2N7qz5zfO9r2OOqp4XJBBJ/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1T4IbsPq2bO382yvVgN8T4U94SYQfkKf1/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1cAhC_CgvhQ8mvadc-h5MNfSIgGYBjNHP/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1P8ad4x9MYlnXTXjNEImfsD9oczjJc1VM/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1bJuHckxlmIUw037eaLuWzgEIcq-VDdce/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1bM1pPCoEWHw1TIBYbD7I1HeLQUVgc8FG/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1HNlMbkUaokkL0DvYJC5kO9C1bAKQpioR/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1jj5NRbv4xX6Sj1UkAPNm7xUo5d4l65RW/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1ovh2zfrN7C3kfIbrNsM6rXqcivwsY5vt/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1QUDrt57hT0ELm0r7MbZ_HSZOsnJ6X1j6/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1srRmvSEg9thuht5kPzCdMJGAa9dE9o07/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1D6J8UDYvilrkLxXvMe6a0NuZx_ZcNYzN/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1QZI1C0XFgyHvnZHHttNzsMhjz9g4hpsW/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/11R-A_XbP5d7HKrVlTXtX555HJP9aNQqy/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1ziFBH9D7TS0llOVuhBD-U9IuXZDGaMDH/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1pMChBvHSVFXWazTYJAMQrzw3EYV9RLMj/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1JGMvYMoDp1yGN7a-pAxKy_KAByOC9G-c/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1kPDm-KzcmpOVfgdAwtI8AKjxph_xY9rD/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1VJkEhiVb2M3yucfefmhYz9IONlgyFw5t/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1hedjoyTcbkuIz8IkyX_oGahY5kBwYMd4/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1ABBDHx8h7Sk5-sAHGAvYpH2tjukiP0mp/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1o1KO0gV1F2tM7OTVt3W6a07_jdq9PQ0f/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1o-kjqSV_ch_uRgtJD-1rzMB8q94kzrl5/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1lnktdoemAJFirfhq8usyXyCFTN5yFOkC/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1VL42lH-twIVxQOZsImaZSibuVU3GVX58/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1ST_VV5LO7dJC1mGvz8Y4USSMSuT13NLB/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1hJ1xdwrAxQArresn_f3vOMFT5l4UjwPG/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/17JHk2BUoHQXrUuNU4YFjUts2B5F3b9MP/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1yoM5IfHKPR0gZ6wy8EIwnQLjCH2Q4HXO/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1HxjjEEYhXJEfgXJqg6m8-YrTrmJrU-RF/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/16YL48OXQBLPjWSTrrNwM_yo00iORILiZ/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1pmsK3wkcEsAgRQzWqGabegmX81kawEVg/view?usp=drive_link
+===
+
+
+===
+Logo: Home Security
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1Qri3_erB9AJDSXIF2vUcT2w3Sn3T0WWE/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1f60SUDmin_6DRm0kG3Wv2xF41j-aAAs0/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1HoUL-VPGvPeol6bCNrc_rlTBbJ59bfmN/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1xMhdppnt3_IaPQSeITX-nWnQaXqibWx1/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1ygs1B26WVo14vOJ_gzIEmIh_Hwcdd23B/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1sDMrJsjhPmw3iO1HGxe5U-JxLc7gA1Es/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1mpuHTcXGt410e7mJY_xVspODJQz_nAPW/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1Ef2uhlCPsckADh71AsKouO9kjgsGpKyv/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1UOek5vzonVV64hlKN3CK_5RPNqkGDEVs/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1NIwywhh0_aPauF_INFig6Du1r-c0WPIV/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1wmElF9oayAu9F-EvrkS0DUhqus1doV1K/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1nVMmnNDwSL7K-TjEnUe5UdRJCHWxN-yU/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: png
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/17G-3XVPlR04yfvL88tXrUsrRZ2zwbZCm/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1Y7V1GqLmcO7FCZyquHYh3KFlyIhT4jVE/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1La137EVkDw9HVfhMu3sp9dFThik9EpIp/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1Al2d2AhcjBHWm9R2oW4K_XQtOsT07ZfR/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/1DRAfUEfeAQJbA6M6gb1P3aZXdpGURIc8/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1BPjFxN7_GGTqJg9xmooyBrF_LfqiZd5f/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1nlu8FFepXwiFine-fOb7TO8G26jNmP9U/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/1dau7cOmT2QClZGizykmJnJvaWaUogB0U/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1zcGJkSnWay24shu0EfarWcsYtnbBa1jB/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1_mrne6vwgIi-yZ4iToWzPSWEGOlL4ENx/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1wF11P2BkWBgA6dAKh9AAjJwJsuPEOyRX/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/19UNIV91XTEe4Gv1Y9fEQh8yo786T7lGY/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: pdf
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1cTNSuDdPkT6Ihb73YJihyEip4qerCf4D/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Black
+Type: Emblem
+Link: https://drive.google.com/file/d/1iMqnqKLHIql4U3WKIdutHvIAfgDghCKC/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Black
+Type: Right align
+Link: https://drive.google.com/file/d/1lTfuT-rj6RfHe-bE4Aym4-0Iw1SiIehy/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Black
+Type: Left align
+Link: https://drive.google.com/file/d/1dLwZ3SdBGjSxkiSTcQH5TSujjni85NI9/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Black
+Type: Vertical
+Link: https://drive.google.com/file/d/10AkRvoRE8j2jwKbhz2JnT4WqcFpJAs0X/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: White
+Type: Emblem
+Link: https://drive.google.com/file/d/1Vt6GnaeDq-8uhZ91hq9WvXM-KrUAYDhR/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: White
+Type: Right align
+Link: https://drive.google.com/file/d/1OwS2aUSvCn3URkpQC7oQE4Mflz__Pa4k/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: White
+Type: Left align
+Link: https://drive.google.com/file/d/19kH8VORV9PmTWLOIjlZ2PAqQpaNs2_Jb/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: White
+Type: Vertical
+Link: https://drive.google.com/file/d/1xndbaUOuubQDSCpdRbyR913VOCwRN2wP/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Colored
+Type: Emblem
+Link: https://drive.google.com/file/d/1fUIYOK4y7SLxxxyNqTrSoULiuFUkBgkO/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Colored
+Type: Right align
+Link: https://drive.google.com/file/d/1-n12_fzS2YOuCrXIipYrLtiMC7RQmXmy/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Colored
+Type: Left align
+Link: https://drive.google.com/file/d/1eI9fyQKz0DHdSkZ39xwCO4SCWzdkf9id/view?usp=drive_link
+===
+
+
+===
+Logo: International Conference of Crime Prevention
+Format: svg
+Color: Colored
+Type: Vertical
+Link: https://drive.google.com/file/d/1MSLV93Z-LbBEaRgTu6DHd6AEIT-9fxut/view?usp=drive_link
+===
