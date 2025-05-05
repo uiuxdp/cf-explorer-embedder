@@ -14,8 +14,8 @@ import chromadb
 # --- Config ---
 CHROMA_DB_PATH = "./chroma_db"
 CHROMA_SERVER_HOST = "localhost"
-CHROMA_SERVER_PORT = 8000
-LM_STUDIO_URL = "http://10.90.115.176:1234/v1/embeddings"
+CHROMA_SERVER_PORT = 8004
+LM_STUDIO_URL = "http://localhost:1234/v1/embeddings"
 STRAPI_API_URL = "http://localhost:1337/api/feedback-items?populate=source"
 STRAPI_BASE_URL = "http://localhost:1337"
 ID_COLUMN = None
@@ -65,7 +65,8 @@ def get_embeddings(texts, api_url=LM_STUDIO_URL, batch_size=5):
     for i in tqdm(range(0, len(texts), batch_size), desc="Generating embeddings"):
         batch = [str(t).strip() for t in texts[i:i+batch_size] if t and len(t.strip()) > 0]
         if not batch: continue
-        data = {"input": batch, "model": "text-embedding-mxbai-embed-large-v1"}
+        # text-embedding-mxbai-embed-large-v1
+        data = {"input": batch, "model": "text-embedding-nomic-embed-text-v1.5"}
         retries = 3
         while retries > 0:
             try:
@@ -124,18 +125,25 @@ def index_all_sources():
     res = requests.get(STRAPI_API_URL)
     items = res.json().get("data", [])
     for item in items:
-        slug = item["slug"]
-        src = item["source"]
+        slug = item.get("slug")
+        src = item.get("source")
+
+        if not slug or not src or not src.get("url") or not src.get("name"):
+            print(f"Skipping invalid entry: {item}")
+            continue
+
         url = f"{STRAPI_BASE_URL}{src['url']}"
         filename = os.path.join(DOWNLOADS_DIR, src["name"])
         print(f"Downloading {url}...")
-        with open(filename, "wb") as f:
-            f.write(requests.get(url).content)
+
         try:
+            with open(filename, "wb") as f:
+                f.write(requests.get(url).content)
             collections_by_slug[slug] = index_csv_to_collection(client, filename, slug)
             print(f"Indexed {slug}")
         except Exception as e:
             print(f"Error indexing {slug}: {e}")
+
 
 # --- Startup: launch Chroma, connect, and index all ---
 @app.on_event("startup")
